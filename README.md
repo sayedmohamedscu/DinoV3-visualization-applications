@@ -32,25 +32,5 @@ Here is a demo of the Single-Image Patch Similarity application in action.
 
 ![Demo animation](assets/ezgif.com-animated-gif-maker.gif)
 
-## 🛠️ Setup and Usage
 
-Both applications are built using Gradio and require a pre-trained DINOv3 checkpoint.
-
-1.  **Clone the Repository:**
-    ```bash
-    git clone [https://github.com/your-username/your-repo.git](https://github.com/your-username/your-repo.git)
-    cd your-repo
-    ```
-
-2.  **Download the DINOv3 Checkpoint:**
-    You must download a pre-trained `dinov3_vith16plus` checkpoint from the official [DINOv3 repository](https://github.com/facebookresearch/dinov3?tab=readme-ov-file#pretrained-models). Place the `.pth` file in the same directory as the Python scripts.
-
-3.  **Install Dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4.  **Run the Application:**
-    -   **Patch Similarity:** `python DinoV3_Explorer.ipynb`
-    -   **PCA Explorer:** `python DinoV3_Explorer.ipynb`
 
