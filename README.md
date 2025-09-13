@@ -1,5 +1,9 @@
 # 🦖 DINOv3 Visualization Applications
 
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@elsayed_mohamed/paper-review-dinov3-the-new-state-of-the-art-in-self-supervised-vision-models-d337ee4bf9dc)
+[![Hugging Face](https://img.shields.io/badge/-🤗%20Hugging%20Face-yellow?style=for-the-badge&logoColor=white)](https://huggingface.co/spaces/sayedM/DINOv3-features)
+
+
 This repository contains two interactive Gradio applications for visualizing the capabilities of the DINOv3 self-supervised vision transformer. These tools allow you to explore how the model "sees" an image by analyzing its learned features.
 
 ## 🚀 Applications
